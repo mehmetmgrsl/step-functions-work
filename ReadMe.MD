@@ -1,6 +1,6 @@
 # WIP
 
-# What is AWS Step Functions?
+### What is AWS Step Functions?
 
 It is a serverless orchestration service that let you integrate with AWS Lambda functions and other AWS Services to build business-critical applications (1*)
 
